@@ -9,6 +9,8 @@ sns.set()
 import warnings
 warnings.filterwarnings('ignore')
 
+st.set_page_config(layout="wide")
+
 header = st.container()
 dataset = st.container()
 Visualisation = st.container()
@@ -142,7 +144,7 @@ with Q3:
     st.subheader("We can see that Indian Tv shows with TV-MA rating tend to be more common.")
 
 with Q4:
-    #Indian movies w.r.t. rating
+    #Movies in India according to their rating
     df_2 = indian_shows.query("type == 'Movie'")
     df_2 = df_2[["title", "rating"]]
     df_2 = df_2.groupby(['rating'])["title"].count().reset_index().sort_values('title', ascending = False)
