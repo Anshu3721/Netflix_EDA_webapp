@@ -16,7 +16,7 @@ dataset = st.container()
 Visualisation = st.container()
 @st.cache_data
 def get_data():
-    df = pd.read_csv("D:\DATA SCIENCE\python\Dataset\\netflix_titles.csv")
+    df = pd.read_csv("netflix_titles.csv")
     return df
 df = get_data()
 
