@@ -232,4 +232,3 @@ with Q6:
     trend_yearwise(2020)
 
 st.divider()
-st.write("For github link: [click here](https://github.com/Anynomous25/Netflix_EDA_webapp)")
