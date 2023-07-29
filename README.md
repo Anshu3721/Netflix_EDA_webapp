@@ -41,6 +41,5 @@ We extend our gratitude to Kaggle.com for providing access to the Netflix datase
 
 *Contact Information:*
 For any inquiries or additional information, please contact:
-Anshu Kumar
 Anshukumar3721@gmail.com
 
