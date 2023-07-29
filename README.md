@@ -1,3 +1,6 @@
+## Demo
+<img src="https://github.com/Anshu3721/Netflix_EDA_webapp/blob/master/demo.mp4">
+
 
 ## Introduction:<br>
 In this report, I present the findings of an Exploratory Data Analysis (EDA) project conducted on the Netflix dataset obtained from Kaggle.com. The dataset contains valuable information about user behavior, content trends, and other relevant attributes from the popular streaming platform, Netflix. The primary objective of this EDA was to gain insights into user engagement patterns, content preferences, and potential areas for improvement.
