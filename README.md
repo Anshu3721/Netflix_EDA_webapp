@@ -1,5 +1,5 @@
 ## Demo
-<img src="https://github.com/Anshu3721/Netflix_EDA_webapp/blob/master/demo.mp4">
+<img src="https://github.com/Anshu3721/Netflix_EDA_webapp/blob/master/demo.gif">
 
 
 ## Introduction:<br>
